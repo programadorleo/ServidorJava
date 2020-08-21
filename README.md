@@ -30,8 +30,9 @@
 </html>
 ```
 
-#### Cliente realiza una peticion al servidor 
-#### El Servidor consulta (generalmente a una bd), con esa informacionrealiza una pagina html que envia al cliente.
+#### 1. Cliente realiza una peticion al servidor. 
+#### 2. El Servidor consulta (generalmente a una bd), 
+#### 3. Con esa informacionrealiza una pagina html que envia al cliente.
 
 
 
