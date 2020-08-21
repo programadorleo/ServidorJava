@@ -6,7 +6,7 @@
 
 ![](https://github.com/programadorleo/ServidorJava/blob/master/img/clienteservidorbd.png)
 
-####Software necesario
+#### Software necesario
 
 - Java JEE IDE
 - Servidor Web (Tomcat)
@@ -14,9 +14,9 @@
 
 ### ¿Como esta formado un archivo JSP?
 
-Codigo java "Embutido dentro de código HTML"
-Se guarda en la carpeta web del servidor 
-Debe guardarse con extensión .jsp 
+-Codigo java "Embutido dentro de código HTML"
+-Se guarda en la carpeta web del servidor 
+-Debe guardarse con extensión .jsp 
 
 ### Formato HTML
 
@@ -30,8 +30,8 @@ Debe guardarse con extensión .jsp
 </html>
 ```
 
-Cliente realiza una peticion al servidor 
-El Servidor consulta (generalmente a una bd), con esa informacion
+-Cliente realiza una peticion al servidor 
+-El Servidor consulta (generalmente a una bd), con esa informacion
 realiza una pagina html que envia al cliente.
 
 
