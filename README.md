@@ -1,10 +1,10 @@
 # JSP
-#### **P**aginas de** S**ervidor **J**ava
+#### **P**aginas de**S**ervidor **J**ava
 
 ###### Aplicacion web: es un sitio web cuyas paginas son generadas dinamicamente, dependiente de la accion del usuario se genera unas paginas u otras.
 
-![](https://github.com/programadorleo/ServidorJava/tree/master/img)
 
+![](https://github.com/programadorleo/ServidorJava/blob/master/img/clienteservidorbd.png)
 
 ####Software necesario
 
