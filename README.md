@@ -32,7 +32,7 @@
 
 #### 1. Cliente realiza una peticion al servidor. 
 #### 2. El Servidor consulta (generalmente a una bd), 
-#### 3. Con esa informacionrealiza una pagina html que envia al cliente.
+#### 3. Con esa informacion realiza una pagina html que envia al cliente.
 
 
 
