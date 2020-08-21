@@ -14,9 +14,9 @@
 
 ### ¿Como esta formado un archivo JSP?
 
--Codigo java "Embutido dentro de código HTML"
--Se guarda en la carpeta web del servidor 
--Debe guardarse con extensión .jsp 
+#### Codigo java "Embutido dentro de código HTML"
+#### Se guarda en la carpeta web del servidor 
+#### Debe guardarse con extensión .jsp 
 
 ### Formato HTML
 
@@ -30,9 +30,8 @@
 </html>
 ```
 
--Cliente realiza una peticion al servidor 
--El Servidor consulta (generalmente a una bd), con esa informacion
-realiza una pagina html que envia al cliente.
+#### Cliente realiza una peticion al servidor 
+#### El Servidor consulta (generalmente a una bd), con esa informacionrealiza una pagina html que envia al cliente.
 
 
 
