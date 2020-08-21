@@ -58,7 +58,7 @@ for(int i=0; i< 10; i++){
 %>
 
 
-**Declaraciones:**Se incluyen variables y metodos
+**Declaraciones:** Se incluyen variables y metodos
 
 <%! Declaración de variables o métodos %>
 
