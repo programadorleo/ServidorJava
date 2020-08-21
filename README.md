@@ -1,16 +1,13 @@
-<<<<<<< HEAD
 #### **P**aginas de **S**ervidor **J**ava
 
 ###### Aplicacion web: es un sitio web cuyas paginas son generadas dinamicamente, dependiente de la accion del usuario se genera unas paginas u otras.
 
-![](C:\Users\Gandarias\Desktop\JSPServidorJava\ServidorJava-1\img\clienteservidorbd.jpg)
+![](https://github.com/programadorleo/ServidorJava/blob/master/img/clienteservidorbd.png)
 =======
 # JSP
 #### **P**aginas de** S**ervidor **J**ava
 
 ###### Aplicacion web: es un sitio web cuyas paginas son generadas dinamicamente, dependiente de la accion del usuario se genera unas paginas u otras.
-
-![](https://github.com/programadorleo/ServidorJava/blob/master/img/clienteservidorbd.jpg)
 
 
 ####Software necesario
@@ -42,5 +39,5 @@ Cliente realiza una peticion al servidor
 El Servidor consulta (generalmente a una bd), con esa informacion
 realiza una pagina html que envia al cliente.
 
->>>>>>> 9db988bb5fd7660b663e695939441aa8f8638b6c
+
 
