@@ -42,9 +42,7 @@
 <%= expresion Java%>
 
 Convirtiendo a mayusculas <%= String("patricio").toUpperCase() %>
-
 La suma de 5 y 7 es: <%=5+7%>
-
 10 es menor que 100: <%=10< 100 %>
 
 
@@ -52,29 +50,24 @@ La suma de 5 y 7 es: <%=5+7%>
 
 <% varias lineas de codigo%>
 
+
 <%
-
 for(int i=0; i< 10; i++){
-
 	out.println(" Mensaje"+ i);
 }
-
 %>
 
 
-**Declaraciones:***Se incluyen variables y metodos
+**Declaraciones:**Se incluyen variables y metodos
 
 <%! Declaración de variables o métodos %>
 
 <%! 
+
 private int resultado;
-
 public int metodoSuma(int num1, int num2){
-
 resultado=nume1+num2;
-
 return resultado;
-
 }
 
 %>
