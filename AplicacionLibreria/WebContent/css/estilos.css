@@ -1,9 +1,12 @@
 
 body{
- background-color:teal;
+ background-color:highlight;
 }
 
-h1{
-text-align:center;
+legend{
+	color:navy;
 }
 
+p label{
+	color:white;
+}
