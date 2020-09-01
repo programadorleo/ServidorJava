@@ -1,15 +1,14 @@
-
-body{
- background-color:gray;
+body {
+	background-color: gray;
 }
 
-legend, label{
-	font-weight:bold;
-	color:white;
+legend, label {
+	font-weight: bold;
+	color: white;
 }
 
 p {
-	text-align:right;
-	color:white;
-	width:300px;
+	text-align: right;
+	color: white;
+	width: 300px;
 }

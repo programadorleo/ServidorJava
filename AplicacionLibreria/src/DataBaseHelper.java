@@ -22,8 +22,15 @@ public class DataBaseHelper {
 			sentencia = conexion.createStatement();
 			filasAfectadas = sentencia.executeUpdate(consultaSQL);
 			
-		catch(ClassNotFoundException e) {}
+		    }
+		catch(ClassNotFoundException e) {
+			System.out.println(e.getMessage());
+		} catch (SQLException e) {
 		
+			e.printStackTrace();
+		}
 		
+		return 0;
 	}
-}
+   }
+
