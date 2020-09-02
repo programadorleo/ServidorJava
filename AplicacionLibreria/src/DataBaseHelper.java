@@ -32,5 +32,28 @@ public class DataBaseHelper {
 		
 		return 0;
 	}
+	
+	public ResultSet seleccionarRegistro(String consulta) {
+		
+		Connection conexion =null;
+		Statement sentencia=null;
+		ResultSet filas=null;
+		
+		try {
+			Class.forName(DRIVER);
+			conexion = DriverManager.getConnection(URL,USUARIO,CLAVE);
+			sentencia = conexion.createStatement();
+			filas =sentencia.executeQuery(consulta);
+			
+		}catch(ClassNotFoundException e) {
+			System.out.println("Error de Diver"+ e.getMessage());
+			
+		}catch(SQLException e) {
+			System.out.println("Error de SQL"+ e.getMessage());
+		}
+		return filas;
+		
+	}
+	
    }
 

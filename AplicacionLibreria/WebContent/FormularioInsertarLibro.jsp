@@ -42,7 +42,7 @@ pageEncoding="UTF-8" %>
 			
 			try{sentencia.close();}
 			catch(SQLException e)
-			{System.out.println("Error cerrando la sentencia"+ e.getMessage());}
+			{System.out.println("Error al cerrar  la sentencia"+ e.getMessage());}
 		}
 		
 	}
