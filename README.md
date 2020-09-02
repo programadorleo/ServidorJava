@@ -32,6 +32,10 @@ Un archivo **JSP**está formado por **codigo java**embutido en codigo **html**, 
 </html>
 ```
 
+## Crear un formulario que nos permita dar de alta nuevos libros
+#### 1 Construir un formulario HTML
+#### 2 Validar JavaScript
+#### 3 Aplicar formato CSS
 
 
 
