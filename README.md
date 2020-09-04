@@ -1,5 +1,5 @@
 # JSP (Páginas de Servidor Web)
-#### Estas páginas nos sirven para crear aplicaciones web 
+#### Estas páginas nos sirven para crear aplicaciones web pudiendo operar distintas plataformas y servidores 
 ##### Aplicacion web: es un sitio web cuyas páginas son generadas dinamicamente, dependiente de la acción del usuario se genera unas paginas u otras.
 
 
@@ -15,10 +15,7 @@
 - Java JEE IDE
 - Servidor Web (Tomcat)
 
-
-
 Un archivo **JSP**está formado por **codigo java**embutido en codigo **html**, se deber guardar en la carpeta web del servidor (WebContent) y con extensión jsp.
-
 
 ### Formato HTML
 
@@ -31,9 +28,6 @@ Un archivo **JSP**está formado por **codigo java**embutido en codigo **html**, 
     </body>
 </html>
 ```
-
-
-
 
 
 ## Tipo de código JSP
