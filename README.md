@@ -6,7 +6,7 @@
 ![](https://github.com/programadorleo/ServidorJava/blob/master/img/clienteservidorbd.png)
 
 1. Cliente realiza una peticion al servidor. 
-2. El Servidor consulta (generalmente a una bd), 
+2. El Servidor consulta (generalmente a una base de datos). 
 3. Con esa informacion realiza una pagina html que envia al cliente.
 
 
