@@ -36,7 +36,7 @@ Un archivo **JSP**está formado por **codigo java**embutido en codigo **html**, 
 
 **<%=** expresion Java**%>**
 
-Convirtiendo a mayusculas <%= String("patricio").toUpperCase() %>
+Convirtiendo a mayúsculas <%= String("patricio").toUpperCase() %>
 La suma de 5 y 7 es: <%=5+7%>
 10 es menor que 100: <%=10< 100 %>
 
