@@ -15,7 +15,7 @@
 - Java JEE IDE
 - Servidor Web(Tomcat)
 
-Un archivo **JSP**está formado por **codigo java**embutido en codigo **html**, se deber guardar en la carpeta web del servidor (WebContent) y con extensión jsp.
+Un archivo **JSP**está formado por **codigo java**embutido dentro de codigo **html**, se deber guardar en la carpeta web del servidor (WebContent) y con extensión jsp.
 
 ### Formato HTML
 
