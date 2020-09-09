@@ -1,5 +1,5 @@
 # JSP (Páginas de Servidor Web)
-#### Estas páginas nos sirven para crear aplicaciones web pudiendo operar distintas plataformas y servidores 
+#### Estas páginas nos sirven para crear aplicaciones web pudiendo operar distintas plataformas y servidores. 
 ##### Aplicacion web: es un sitio web cuyas páginas son generadas dinamicamente, dependiente de la acción del usuario se genera unas paginas u otras.
 
 
