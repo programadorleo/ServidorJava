@@ -73,8 +73,8 @@ return resultado;
 #### 3 Aplicar formato CSS
 
 ## Objetos JSP predefinidos
-### Reques: Representa la peticion del cliente
-### Response: Encapsula la respuesta del servidor
-### Session: Proporciona una sesion unica para cada usuario
-### Out: Escribe contenido en la pagina web
+### Reques: Representa la peticion del cliente.
+### Response: Encapsula la respuesta del servidor.
+### Session: Proporciona una sesion unica para cada usuario.
+### Out: Escribe contenido en la pagina web.
 
