@@ -12,8 +12,8 @@
 
 #### Software necesario
 
-- Java JEE IDE
-- Servidor Web(Tomcat)
+- Java JEE IDE.
+- Servidor Web(Tomcat).
 
 Un archivo **JSP**está formado por **codigo java**embutido dentro de codigo **html**, se deber guardar en la carpeta web del servidor (WebContent) y con extensión jsp.
 
