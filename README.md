@@ -68,9 +68,9 @@ return resultado;
 %>
 
 ## Crear un formulario que nos permita dar de alta nuevos libros
-#### 1 Construir un formulario HTML
-#### 2 Validar JavaScript
-#### 3 Aplicar formato CSS
+#### 1 Construir un formulario HTML.
+#### 2 Validar JavaScript.
+#### 3 Aplicar formato CSS.
 
 ## Objetos JSP predefinidos
 ### Reques: Representa la peticion del cliente.
