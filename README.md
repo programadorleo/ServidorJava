@@ -32,7 +32,7 @@ Un archivo **JSP**está formado por **codigo java**embutido dentro de codigo **h
 
 ## Tipo de código JSP
 
-**Expresiones:** Ocupan solo una linea de codigo 
+**Expresiones:** Ocupan solo una linea de codigo.
 
 **<%=** expresion Java**%>**
 
