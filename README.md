@@ -72,7 +72,7 @@ return resultado;
 #### 2 Validar JavaScript.
 #### 3 Aplicar formato CSS.
 
-## Objetos JSP predefinidos
+## Objetos JSP predefinidos.
 ### Reques: Representa la peticion del cliente.
 ### Response: Encapsula la respuesta del servidor.
 ### Session: Proporciona una sesion unica para cada usuario.
